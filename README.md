@@ -4,6 +4,8 @@
 
 
 ![](yolov4-tiny-custom.gif)
+![](result.gif)
+
 
 Original Video by cottonbro from Pexels
 
@@ -54,5 +56,6 @@ I have used these 3 datasets for my labeled **obj.zip** dataset. Check out my me
 
 
 ![](test2-tiny.gif)
+
 
 Original Video by Nothing Ahead from Pexels
