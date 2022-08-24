@@ -3,7 +3,6 @@
 # Train a custom YOLOv4-tiny object detector 
 
 
-![](yolov4-tiny-custom.gif)
 ![](result.gif)
 
 
