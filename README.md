@@ -4,7 +4,7 @@
 
 
 ![](result.gif)
-#![](yolov4-tiny-custom.gif)
+# ![](yolov4-tiny-custom.gif)
 
 
 Original Video by cottonbro from Pexels
