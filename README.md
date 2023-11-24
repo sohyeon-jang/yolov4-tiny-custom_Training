@@ -6,7 +6,7 @@
 ![](result.gif)
 
 <br/>
-<br/>
+
 ![](yolov4-tiny-custom.gif)
 
 
